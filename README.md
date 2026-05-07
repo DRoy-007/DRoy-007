@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="30">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/droy_007.code_surgeon/" target="_blank">
+  <a href="https://www.instagram.com/droy_007.in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="30">
   </a>
   &nbsp;&nbsp;&nbsp;
